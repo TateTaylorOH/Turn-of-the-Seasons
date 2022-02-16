@@ -68,14 +68,14 @@ Vibrant green trees in the Rift.
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/spring/SpringNorth.png)\
 Increased grass growth in the North.
 
-Winter Fixes
+## Winter Fixes
 
 Turn of the Seasons also includes several mesh fixes for the base Winter season from Seasons of Skyrim. Hopefully the presence of hard seams between textures should be mitigated.
 
-### ![](https://github.com/TateTaylorUSA/TateTaylorUSA/raw/main/assets/images/turn%20of%20the%20seasons/winter/placeholder.png)\
+![](https://github.com/TateTaylorUSA/TateTaylorUSA/raw/main/assets/images/turn%20of%20the%20seasons/winter/placeholder.png)\
 Seams begone!
 
-### Wyrmstooth Integration
+## Wyrmstooth Integration
 
 Additionally, this mod has built-in support for Wyrmstooth, ensuring that you can experience all of Skyrim's seasons in everyone's favorite island to the north!
 
