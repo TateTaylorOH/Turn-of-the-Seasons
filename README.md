@@ -53,7 +53,7 @@ Autumn leaves in the Reach.
 The snow fields of the Winter tundra.
 
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/winter/FrozenWinter.png)\
-Lake Ilinalta frozen over in the Winter.
+The White River frozen over in the Winter.
 
 # ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/SpringSmall.png)﻿ Spring ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/SpringSmallFlipped.png)
 **First Seed | Rain's Hand | Second Seed**
