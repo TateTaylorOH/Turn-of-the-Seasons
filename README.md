@@ -56,7 +56,7 @@ The snow fields of the Winter tundra.
 Lake Ilinalta frozen over in the Winter.
 
 # ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/SpringSmall.png)﻿ Spring ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/SpringSmallFlipped.png)
-First Seed | Rain's Hand | Second Seed
+**First Seed | Rain's Hand | Second Seed**
 
 After Skyrim's harsh winter comes a welcome Spring that is full of life. The province is much greener than normal as plants begin to bloom. While being similar to Summer the Spring season still has a unique identity.
 
