@@ -5,6 +5,8 @@ Great care has been taken in making sure the changes feel natural and don't over
 
 ﻿![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Features.png)
 
+﻿![](https://github.com/TateTaylorUSA/TateTaylorUSA/raw/main/assets/images/turn%20of%20the%20seasons/Seasons.gif)
+
 # ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/SummerSmall.png)﻿ Summer ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/SummerSmallFlipped.png)
 **Midyear | Sun's Height | Last Seed**
 
