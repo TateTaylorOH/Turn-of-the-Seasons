@@ -23,7 +23,7 @@ The yellow and green flora of Summer in the Rift.
 
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/summer/SummerReach.png)
 
-Deep green Summer leaves in the Reach.
+Deep green leaves in the Reach.
 
 # ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/FallSmall.png)﻿ Autumn ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/FallSmallFlipped.png)
 **Hearthfire | Frostfall | Sun's Dusk**
