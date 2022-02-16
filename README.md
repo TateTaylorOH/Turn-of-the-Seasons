@@ -25,7 +25,7 @@ The yellow and green flora of Summer in the Rift.
 Deep green Summer leaves in the Reach.
 
 # ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/FallSmall.png)﻿ Autumn ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/FallSmallFlipped.png)
-**Last Seed | Hearthfire | Frostfall**
+**Hearthfire | Frostfall | Sun's Dusk**
 
 The majority of Skyrim is set in the Autumn months so much of Skyrim is already suited for this season. However we have made a few changes to make the season feel more present across the province.
 
