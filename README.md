@@ -46,10 +46,10 @@ The base Seasons of Skyrim already includes a robust Winter season. Pair it with
 -   Lakes and rivers across Skyrim can be found frozen over in certain places.
 -   Trees in the Reach are dead and leafless (same as Vanilla).
 
-![](https://github.com/TateTaylorUSA/TateTaylorUSA/raw/main/assets/images/turn%20of%20the%20seasons/winter/WhiterunWinter.png)\
+![](https://github.com/TateTaylorUSA/TateTaylorUSA/raw/main/assets/images/turn%20of%20the%20seasons/winter/TundraWinter.png)\
 The snow fields of the Winter tundra.
 
-![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/winter/FrozenWinter.jpg)\
+![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/winter/FrozenWinter.png)\
 Lakes frozen over in the Winter.
 
 # ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/SpringSmall.png)﻿ Spring ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/SpringSmallFlipped.png)
@@ -72,7 +72,7 @@ Increased grass growth in the North.
 
 Turn of the Seasons also includes several mesh fixes for the base Winter season from Seasons of Skyrim. Hopefully the presence of hard seams between textures should be mitigated.
 
-![](https://github.com/TateTaylorUSA/TateTaylorUSA/raw/main/assets/images/turn%20of%20the%20seasons/winter/placeholder.png)\
+![](https://github.com/TateTaylorUSA/TateTaylorUSA/raw/main/assets/images/turn%20of%20the%20seasons/winter/WinterFixes.gif)\
 Seams begone!
 
 ## Wyrmstooth Integration
