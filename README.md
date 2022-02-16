@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/banners/Turn%20of%20the%20Seasons.png)\
-﻿Turn of the Seasons is a mod that hopes to utilize the new Seasons of Skyrim SKSE framework to implement a full set of visually distinct seasons to the game while staying true to Skyrim's aesthetics.
+﻿Turn of the Seasons is a mod that hopes to utilize the new [Seasons of Skyrim SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/62861) framework to implement a full set of visually distinct seasons to the game while staying true to Skyrim's aesthetics.
 
 The changes have been made to feel natural and not to overdo the seasonal variations. It still feels like Skyrim, but now you get to experience it's beautiful environment as it transforms around you while playing!
 
@@ -21,8 +21,7 @@ Skyrim begins in the very last days of Summer, for the first 15 days of your pla
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/summer/SummerRift.png)\
 The yellow and green flora of Summer in the Rift.
 
-![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/summer/SummerReach.png)
-
+![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/summer/SummerReach.png)\
 Deep green leaves in the Reach.
 
 # ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/FallSmall.png)﻿ Autumn ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/FallSmallFlipped.png)
@@ -43,7 +42,7 @@ Autumn leaves in the Reach.
 # ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/WinterSmall.png)﻿ Winter ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/WinterSmallFlipped.png)
 **Evening Star | Morning Star | Sun's Dawn**
 
-The base Seasons of Skyrim already includes a robust Winter season. Pair it with ws's [Shrubs of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/63463) and it looks truly breathtaking. Regardless, a few changes have been made to the season for some added flair.
+[Seasons of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/62861) already includes a robust Winter season; pair it with ws's [Shrubs of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/63463) and it looks truly breathtaking. Regardless, a few changes have been made to the season for some added flair.
 
 -   The Whiterun tundra is now completely covered by a thick layer of snow.
 -   Lakes and rivers across Skyrim can be found frozen over in certain places (Optional).
@@ -57,9 +56,9 @@ The snow fields of the Winter tundra.
 Lake Ilinalta frozen over in the Winter.
 
 # ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/SpringSmall.png)﻿ Spring ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/turn%20of%20the%20seasons/SpringSmallFlipped.png)
-**First Seed | Rain's Hand | Second Seed**
+First Seed | Rain's Hand | Second Seed
 
-After Skyrim's harsh winter comes a welcome Spring that is full of life. The province is much greener than normal as plants begin to bloom. While being similar to Summer the Spring season still has its a unique identity.
+After Skyrim's harsh winter comes a welcome Spring that is full of life. The province is much greener than normal as plants begin to bloom. While being similar to Summer the Spring season still has a unique identity.
 
 -   Trees and other foliage in the Rift are all a solid green.
 -   The grass in the Rift is a vibrant green.
@@ -74,7 +73,7 @@ Increased grass growth in the North.
 
 **Winter Fixes**
 
-Turn of the Seasons also includes several mesh fixes for the base Winter season from Seasons of Skyrim. Hopefully the presence of hard seams between textures should be mitigated.
+Turn of the Seasons also includes several mesh fixes for the base Winter season from [Seasons of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/62861). Hopefully the presence of hard seams between textures should be mitigated.
 
 ![](https://github.com/TateTaylorUSA/TateTaylorUSA/raw/main/assets/images/turn%20of%20the%20seasons/winter/WinterFixes.gif)\
 Seams begone!
@@ -88,7 +87,7 @@ Winter has come to Stonehollow.
 
 **Recommended Mods**
 
-Base Seasons of Skyrim didn't create winter variants for a lot of assets, so when winter hit much of the foliage were still bright vibrant colors. [Shrubs of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/63463) addresses this by creating Winter variants for all of these missed plants; it is basically essential in order to experience the Winter season as intended.
+Base [Seasons of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/62861) didn't create winter variants for a lot of assets, so when winter hits much of the foliage is still bright vibrant colors. [Shrubs of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/63463) addresses this by creating Winter variants for all of these missed plants; it is basically essential in order to experience the Winter season as intended.
 
 Turn of the Seasons only effects how the world looks around you, it does not edit weather in any way. It is recommended you pair this mod with a seasonal weather mod such as [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125). The seasonal weather should begin and end in the proper months,
 
